@@ -9,7 +9,7 @@ Female, Karachi, Pakistan
 * Proficient in Creating Rest-APIs
 * Proficient in Creating Traditional MVC Web Applications
 
-#### I'll only list the technologies, libraries, and frameworks that I've worked with in at least 1 project and, In which, I'm fairly proficient.
+##### I'll only list the technologies, libraries, and frameworks that I've worked with in at least 1 project and, In which, I'm fairly proficient.
 
 ## Front End
 * Javascript + ES6
@@ -47,7 +47,7 @@ Female, Karachi, Pakistan
 * Familiar with Relational Database Design Concepts
 * Proficient in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development
 
-#### Visit My Github Profile: https://github.com/ribaishtiaq
+##### Visit My Github Profile: https://github.com/ribaishtiaq
 
 
 # Personal Information
