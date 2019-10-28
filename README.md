@@ -47,7 +47,7 @@ Female, Karachi, Pakistan
 * Familiar with Relational Database Design Concepts
 * Proficient in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development
 
-#### Visit [My Github Profile](https://github.com/ribaishtiaq)
+#### Visit My Github Profile: https://github.com/ribaishtiaq
 
 
 # Personal Information
