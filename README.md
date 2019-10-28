@@ -19,10 +19,12 @@ Female, Karachi, Pakistan
 * Bootstrap
 * D3.js (Data Visualization)
 * CSS (Proficient in Scss, CSS Grids, CSS flexbox, CSS Animations, Media Queries)
+* Angular
+* ReactJs
 
 ## Back End
 * Ruby On Rails
-* Sinatra
+* NodeJs
 * MySQL
 * PostgreSQL
 * Web Socket
@@ -45,7 +47,7 @@ Female, Karachi, Pakistan
 * Familiar with Relational Database Design Concepts
 * Proficient in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development
 
-#### Visit [My Github Profile](https://github.com/AREEBAISHTIAQ)
+#### Visit [My Github Profile](https://github.com/ribaishtiaq)
 
 
 # Personal Information
