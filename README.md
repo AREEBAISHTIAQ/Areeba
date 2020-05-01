@@ -1,8 +1,6 @@
 # **Areeba Ishtiaq**   
 Female, Karachi, Pakistan   
 **Email**: areeba.aic@gmail.com   
-**Mobile**: +92.302.2508199
-
 
 # Professional Summary
 * Proficient in Creating Modern Web Applications leveraging Ruby + Rails
